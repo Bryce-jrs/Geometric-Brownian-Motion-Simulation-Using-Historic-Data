@@ -9,3 +9,5 @@ This project implements a simulation of geometric Brownian motion (GBM) using Py
 - Visualize the simulated paths
 - Calculate performance metrics, such as mean absolute percentage error (MAPE), for evaluating the accuracy of the simulation.
 
+## Image of a simulation 
+![Image Description](./simulation.png)
