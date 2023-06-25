@@ -4,8 +4,8 @@ This project implements a simulation of geometric Brownian motion (GBM) using Py
 
 ## Features
 
+- Calculate the drift and volatility of the simulated paths for a given Stock (MSFT for example).
 - Simulate paths of a GBM process using Monte Carlo simulation.
-- Calculate the drift and volatility of the simulated paths.
 - Visualize the simulated paths
 - Calculate performance metrics, such as mean absolute percentage error (MAPE), for evaluating the accuracy of the simulation.
 
